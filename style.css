@@ -1,5 +1,3 @@
-/* all colour*/
-
 :root {
     --yellow: #FFFF00;
 }
@@ -274,11 +272,6 @@ header .fa-bars {
     padding: .5rem 0;
     padding-top: 1rem;
     line-height: 1.5;
-}
-
-.aboutme .content .row p 
-{
-  flex: 0rem;
 }
 
 
